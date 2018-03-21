@@ -19,7 +19,20 @@ $ npm install
 ```
 to install the necessary dependencies
 
+Next, let's use NPM to install the Ethereumjs-testrpc:
+
+```sh
+$ npm install -g ethereumjs-testrpc
+```
+Once finished, run the following command to start it:
+
+```sh
+$ testrpc
+```
+This provides you with 10 different accounts and private keys, along with a local server at localhost:8545.
+
 This project requires [METAMASK](https://metamask.io/) to bring Ethereum to your browser. You need to add METAMASK extension to your browser.
+
 
 ## Usage
 
