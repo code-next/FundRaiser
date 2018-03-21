@@ -19,7 +19,7 @@ $ npm install
 ```
 to install the necessary dependencies
 
-This project requires [METAMASK](https://metamask.io/)to bring Ethereum to your browser. You need to add METAMASK extension to your browser.
+This project requires [METAMASK](https://metamask.io/) to bring Ethereum to your browser. You need to add METAMASK extension to your browser.
 
 ## Usage
 
